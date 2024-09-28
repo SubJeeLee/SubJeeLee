@@ -17,6 +17,7 @@ FrontEnd Developer
     </a>
   </div>
 
+<br>
 <div align=center><h2>📚 TECH STACKS 📚</h2></div>
 <br>
 <div align=center>   
@@ -31,5 +32,4 @@ FrontEnd Developer
 
 <br>
 <br>
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lee980605)](https://solved.ac/lee980605)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lee980605)](https://solved.ac/lee980605)
