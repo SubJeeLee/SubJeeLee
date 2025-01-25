@@ -1,8 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=300&section=header&text=HI!👋%20I%20AM%20JUNSUB!&fontSize=48)
-
-
------
-
 **2024.07 -**  
 FrontEnd Developer
 
