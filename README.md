@@ -1,5 +1,9 @@
 **2024.07 -**  
 FrontEnd Developer
+<br>
+<br>
+<a href="https://velog.io/@subjeelee/posts"><img src="https://img.shields.io/badge/Velog-1ec997?style=flat-square&logo=Velog&logoColor=white"/></a> 
+[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=lee980605)](https://solved.ac/lee980605)
 
 -----
 <br>
@@ -27,8 +31,4 @@ FrontEnd Developer
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 
-<br>
-<br>
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lee980605)](https://solved.ac/lee980605)
