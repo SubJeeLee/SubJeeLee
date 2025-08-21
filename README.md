@@ -1,13 +1,16 @@
 **2024.07 -**  
-FrontEnd Developer
-<br>
-<br>
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsubjeelee%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-<br>
+Frontend Developer
+
 <a href="https://velog.io/@subjeelee/posts"><img src="https://img.shields.io/badge/Velog-1ec997?style=flat-square&logo=Velog&logoColor=white"/></a> 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=lee980605)](https://solved.ac/lee980605)
 
------
+### 🎓 Education & Activities
+
+- 경북대학교 컴퓨터학부 글로벌SW융합전공 (2021.03 - 현재)
+- 멋쟁이사자 13기 Frontend 아기사자 (2025.03 - 현재)
+- 네이버 부스트캠프 웹・모바일 10기 (2025.07 - 현재)
+
+----
 <br>
 <div align=center>
 <!--     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
@@ -26,7 +29,6 @@ FrontEnd Developer
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=for-the-badge&logo=Tailwind CSS&logoColor=white"/>
   <br>
   <img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=Typescript&logoColor=white"/>   
   <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
